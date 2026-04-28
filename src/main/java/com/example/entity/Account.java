@@ -5,7 +5,6 @@ import javax.persistence.*;
 /**
  * This is a class that models an Account.
  *
- * You should NOT make any modifications to this class.
  */
 @Entity
 @Table(name="account")
